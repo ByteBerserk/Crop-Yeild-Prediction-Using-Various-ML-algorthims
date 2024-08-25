@@ -13,8 +13,11 @@ To run this project, you will need Python and the scikit-learn library installed
 **Prerequisites**
 
 Python: Version 3.6 or above
+
 scikit-learn: Install via pip
+
 Pandas: For data manipulation
+
 Matplotlib: For visualization
 
 **Building a Model with Real-World Data**
